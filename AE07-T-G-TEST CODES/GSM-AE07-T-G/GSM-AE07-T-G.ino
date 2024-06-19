@@ -42,7 +42,6 @@
 
 #define GSM_RX 33
 #define GSM_TX 32
-#define GSM_RESET -1
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
